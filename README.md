@@ -1,2 +1,2 @@
 # infra-aws
-Projeto simples de infraestrutura como código
+Projeto prático de Infraestrutura como Código usando Terraform e Ansible para provisionar e configurar uma instância Ubuntu na AWS.
