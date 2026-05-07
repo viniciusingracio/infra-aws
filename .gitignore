@@ -1,0 +1,18 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+.terraform.lock.hcl
+
+# Variáveis locais
+*.tfvars
+*.tfvars.json
+
+# Ansible
+ansible/*.retry
+ansible/inventory.ini
+
+# Sistema
+.DS_Store
